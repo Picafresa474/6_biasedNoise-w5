@@ -1,7 +1,4 @@
-/* DN3008 Generative Art, Ashley Hi 2026
- * Week 5 - Randomness & Noise
- * Biased Noise
- */
+
 
 function setup() {
   createCanvas(510, 510);
